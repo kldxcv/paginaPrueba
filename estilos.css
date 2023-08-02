@@ -1,0 +1,19 @@
+body {
+    background:  orange;
+    color: black;
+}
+
+.center{
+    text-align: center;
+    
+}
+
+ p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#title{
+background-color:  black;
+color: floralwhite;
+}
+
